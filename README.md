@@ -3,4 +3,4 @@ A collection of LowBott Games binaries.
 
 ## Android
 * Toronto Transit Map
-  * [v1.0](./Android/TorontoTransitMap/torontotransitmap.apk)
+  * [v1.0](../../raw/master/Android/TorontoTransitMap/torontotransitmap.apk)
